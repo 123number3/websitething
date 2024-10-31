@@ -1,0 +1,22 @@
+h1.intro{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.jumbotron{
+    background-color:darkcyan
+}
+body{
+    background-color:darkslategray;
+    color:aqua
+}
+.carousel-inner > .item > img {
+    min-width: 100%;
+    height: 500px;
+    display: block;
+}
+
